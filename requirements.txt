@@ -1,6 +1,6 @@
+qrcode[pil]>=7.4
 # Streamlit核心包（指定版本避免兼容性问题）
 streamlit>=1.36.0
-qrcode[pil]>=7.4
 
 # 数据处理包（读取CSV/Excel）
 pandas>=2.1.0
