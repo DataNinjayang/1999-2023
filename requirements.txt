@@ -1,5 +1,6 @@
 # Streamlit核心包（指定版本避免兼容性问题）
 streamlit>=1.36.0
+qrcode[pil]>=7.4
 
 # 数据处理包（读取CSV/Excel）
 pandas>=2.1.0
@@ -13,4 +14,3 @@ csvkit>=1.0.7
 pyarrow>=14.0.0
 # 处理图片/多媒体（若子页面有图片）
 Pillow>=10.0.0
-qrcode[pil]>=7.4
